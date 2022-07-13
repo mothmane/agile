@@ -1,8 +1,8 @@
 # thought about agile
 
-Sometimes we tend to focus on agile frameworks implementation, arguing which behaviors are considered agile and which are not. We have all been in meetings where we had to convince managers and teams to adopt new agile practices, trying to sell them on the idea that agile is the best way to work, digging in details of Scrum and Kanban, trying to replace the old dogma the with new one. This led skeptical managers perceive agile as a huge risky process lift.
+Sometimes we tend to focus on agile frameworks implementation, arguing which behaviors are considered agile and which are not. We all have  been in meetings where we had to convince managers and teams to adopt new agile practices, trying to sell them  the idea that agile is the best way to work, digging in details of Scrum and Kanban, trying to replace the old dogma the with new one. This led skeptical managers perceive agile as a huge risky process lift.
 
- Thinking about this, I just wanted to go back to roots and share with you the twelve principles behind the Agile Manifesto.
+ Thinking about this, I just wanted to go back to the roots and share with you the twelve principles behind the Agile Manifesto.
 
 1 - Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
@@ -28,10 +28,8 @@ Sometimes we tend to focus on agile frameworks implementation, arguing which beh
 
 12 - At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
-
-Only a cultural shift, can help you create a high performing team.
-Replacing processes with new ones may not bring the desired effect, being agile is not about applying rigid processes and it's  not a goal by itself, 
-it's a mindset that is focused on  delivering  steadily maximum value with minimum cost steadily, a mindset that make team members humble and egoless so collaboration and interaction becomes fluid and effective , a mindset that  through psychological safety make self improvement  welcomed and  demanded. 
+If we  use an agile methodoly, we have to match the practices with higher levels principles, practices without the cultural support will probably not help us create a high performing team, replacing processes with new ones may not bring the desired effect, being agile is not about applying rigid processes and it's  not a goal by itself. 
+it's a mindset that is focused on  delivering  steadily maximum value with minimum cost steadily, a mindset that make team members humble and egoless so collaboration and interaction becomes fluid and effective , a mindset that  through psychological safety make self improvement welcomed and demanded. 
 
 Being agile is somehow an obsession about value delivery, simplicity, reflection and  improvement.
 
