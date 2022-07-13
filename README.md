@@ -28,8 +28,7 @@ Sometimes we tend to focus on agile frameworks implementation, arguing which beh
 
 12 - At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.
 
-If we  use an agile methodoly, we have to match the practices with higher levels principles, practices without the cultural support will probably not help us create a high performing team, replacing processes with new ones may not bring the desired effect, being agile is not about applying rigid processes and it's  not a goal by itself. 
-it's a mindset that is focused on  delivering  steadily maximum value with minimum cost steadily, a mindset that make team members humble and egoless so collaboration and interaction becomes fluid and effective , a mindset that  through psychological safety make self improvement welcomed and demanded. 
+Remember when you choose an agile methodoly, you  have to match the practices with higher levels principles, practices without cultural support will probably not help us create high-performing teams, replacing processes with new ones may not bring the desired effect, being agile is not about applying rigid processes and it's not a goal by itself, It's a mindset focused on delivering steadily maximum value with minimum cost, a mindset that needs humble and egoless team members so collaboration and interaction become fluid and effective, a mindset that through psychological safety makes self-improvement welcomed and demanded.
 
 Being agile is somehow an obsession about value delivery, simplicity, reflection and  improvement.
 
